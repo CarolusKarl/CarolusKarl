@@ -1,7 +1,7 @@
 <h1 align="center">Aloha 👋, por aca Carlos</h1>
 <h3 align="center">Cazador de bugs</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Cypress**
+- 🌱 Actualmente aprendiendo **Cypress**
 
 - 📫 Contacto **ccarvajald94@gmail.com**
 
